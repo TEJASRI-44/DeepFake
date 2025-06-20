@@ -1,5 +1,5 @@
 # Deepfake Detection Project
-Deepfake Detection System is an AI-powered application that detects whether an image or video is real or fake. It uses a lightweight CNN model for image classification and a 3D CNN model for video-based deepfake detection. The project is built with a React frontend, Flask or Spring Boot backend, and integrates deep learning models to ensure reliable and fast inference. 
+Deepfake Detection System is an AI-powered application that detects whether an image or video is real or fake. It uses a lightweight CNN model for image classification and a 3D CNN model for video-based deepfake detection. 
 It provides a user-friendly interface for uploading media and visualizes prediction results effectively.
 
 This repository contains the full source code for a Deepfake Detection system that uses deep learning models to classify images and videos as real or fake.
