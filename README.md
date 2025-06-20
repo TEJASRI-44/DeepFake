@@ -9,7 +9,7 @@ This repository contains the full source code for a Deepfake Detection system th
 ## 📂 Project Structure
 
 - `frontend/` — React frontend user interface  
-- `backend/` — Backend API (Flask or Spring Boot) serving the deepfake detection model  
+- `backend/` — Backend API (Flask) serving the deepfake detection model  
 - `backend/models_Saved/` — **Not included here due to large size**  
 - `MODEL_DOWNLOAD_LINK.txt` — Contains a link to download the pre-trained model file
 
